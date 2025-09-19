@@ -6,8 +6,7 @@
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)](https://aws.amazon.com/)
 [![GCP](https://img.shields.io/badge/GCP-Cloud-red?logo=googlecloud)](https://cloud.google.com/)
 
-This project is a **full-stack microservices application** demonstrating a **scalable architecture** with **multi-cloud deployment** support across **AWS and GCP**.  
-It is ideal for software engineering students, developers, and organizations exploring **microservices, containerization, and cloud deployment best practices**.
+This project is a **full-stack microservices application** demonstrating a **scalable architecture** with **multi-cloud deployment** support across **AWS and GCP**. It is ideal for software engineering students, developers, and organizations exploring **microservices, containerization, and cloud deployment best practices**.
 
 ---
 
@@ -27,7 +26,7 @@ It is ideal for software engineering students, developers, and organizations exp
 * **Modular Microservices Architecture:** Independent, modular services for scalability.
 * **Dockerized Services:** Backend services and databases run in Docker containers for portability.
 * **Polyglot Persistence:** MySQL for `Course Service` and MongoDB for `Student Service`.
-* **Modern Frontend:** Built with React, TypeScript, and Tailwind CSS for a responsive UI.
+* **Modern Frontend:** Built with React, TypeScript, and Tailwind CSS.
 * **Multi-Cloud Deployment:** Seamless deployment to AWS and GCP.
 ---
 
@@ -74,7 +73,7 @@ Open in browser: `http://localhost:5173`
 
 ## Demo Video
 
-See how the **Course Service** is set up and runs on **GCP**:
+See how the **Course Service** is set up and runs on **GCP**
 
 [![Watch the GCP Demo](https://img.shields.io/badge/Watch-GCP%20Demo-blue?style=for-the-badge&logo=googlecloud)](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
 
