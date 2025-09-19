@@ -75,7 +75,7 @@ Open in browser: `http://localhost:5173`
 
 See how the **Course Service** is set up and runs on **GCP**
 
-[![Watch the GCP Demo](https://img.shields.io/badge/Watch-GCP%20Demo-blue?style=for-the-badge&logo=googlecloud)](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
+[![Watch the GCP Demo](https://img.shields.io/badge/Watch-GCP%20Demo-blue?style=for-the-badge&logo=googlecloud)](https://drive.google.com/file/d/1-FqPlCYFBqLsqXvndF72l5bFOjcLrlIH/view?usp=sharing)
 
 ---
 
