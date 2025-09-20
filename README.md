@@ -89,6 +89,14 @@ See how the **Course Service** is set up and runs on **GCP**
 
 This project is licensed under the **[MIT LICENSE](LICENSE)**.
 
+---
+## Author
+
+| Name              | Student ID   | Email               |
+|-------------------|--------------|---------------------|
+| Yasith Chathuranga | 2301682017 | yasithchathuranga999@gmail.com |
+
+
 <div align="center">
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-100000?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge" /></a>
